@@ -34,9 +34,6 @@ This project is built to help users:
 - (Optional: Python / Flask / React if used in your project)
 
 ---
+## 🌐 Live Demo
 
-## 📂 How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/maryamalamkhan001/-Personal-Finance-Tracker-.git
+👉 https://maryamalamkhan001.github.io/-Personal-Finance-Tracker-/
